@@ -1,0 +1,13 @@
+# Ignore dependencies and generated output
+node_modules/
+public/
+.deploy_git/
+.DS_Store
+
+# Lockfiles (optional to track if you prefer)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# logs
+npm-debug.log*
